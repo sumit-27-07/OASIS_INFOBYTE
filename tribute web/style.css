@@ -1,0 +1,49 @@
+body{
+    background: radial-gradient(#fff,#ffd6d6);
+    margin: 9%;
+}
+img{
+    display: block;
+     margin-left: auto; 
+     margin-right: auto;
+      width: 50%;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: #ff9f4c;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    white-space: nowrap;
+    
+}
+h3{
+    text-align: center;
+    font-size: 8vh;
+}
+h4,h5,h6,h9{
+    text-align: center;
+    font-size:35px ;
+    line-gap-override: 10px;
+    
+    
+}
+q{
+    text-align: center;
+    font: bolder;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #0000dd;
+    white-space: nowrap;
+    
+}
+.conclude{
+    font:bolder;
+}
+.coder{
+    text-align: center;
+    font:bolder;
+    color: rgb(25, 0, 250);
+}
